@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flexbox</title>
+    <link rel="stylesheet" href="flexbox3.css">
+</head>
+<body class="body">
+    <div class="img">
+        <img src="gambar1.jpeg" alt="" class="gambar1.jpeg">
+        <img src="gambar2.jpg" alt=""  class="gambar2.jpg">
+        <img src="gambar3.jpeg" alt="" class="gambar3.jpeg">
+
+    </div>
+    <div class="div">
+        <img src="gambar4.jpeg" alt="">
+        <img src="gambar5.jpeg" alt="">
+        <img src="gambar6.jpg" alt="">
+        <img src="gambar7.jpeg" alt="">
+        <img src="gambar8.jpg" alt="">
+    </div>
+    
+</body>
+</html>
